@@ -24,3 +24,5 @@ I have worked on a variety of domains and projects.
 🖌  I regulary write blogs on [Modern NLP](https://medium.com/modern-nlp)
 
 🙏🏼  You can reach me via [Twitter](https://twitter.com/nlpguy_)
+
+🏇  You can find my community talks at [YouTube](https://www.youtube.com/playlist?list=PL2H7HbmQHDJW7JmLzMRkZMeNV_wOxdcXi)
