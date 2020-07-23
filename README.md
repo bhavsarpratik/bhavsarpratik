@@ -1,7 +1,6 @@
 <h1 align="center">Hey I'm Pratik 👋</h1>
 <h3 align="center">A remote NLP engineer from India 👾</h3>
 <h3 align="center">NLP | Deep Learning | Python | AWS</h3>  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavsarpratik" alt="bhavsarpratik" /> </p>
 
 <p align="center">
 <a href="https://twitter.com/nlpguy_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nlpguy_" height="20" width="20" /></a>
