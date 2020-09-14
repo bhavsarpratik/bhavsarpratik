@@ -21,7 +21,7 @@ I have worked on a variety of domains and projects.
 
 🧪  Some of my best projects are available at [hackathons](https://github.com/bhavsarpratik/hackathons)
 
-🖌  I regulary write blogs on [Modern NLP](https://medium.com/modern-nlp)
+🖌  I regulary write data science blogs on [Substack](http://pakodas.substack.com) & [Modern NLP](https://medium.com/modern-nlp)
 
 🙏🏼  You can reach me via [Twitter](https://twitter.com/nlpguy_)
 
