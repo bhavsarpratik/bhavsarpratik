@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://twitter.com/nlpguy_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nlpguy_" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/bhavsarpratik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bhavsarpratik" height="20" width="20" /></a>
-<a href="https://medium.com/pratikbhavsar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="pratikbhavsar" height="20" width="20" /></a>
+<a href="https://medium.com/@pratikbhavsar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="pratikbhavsar" height="20" width="20" /></a>
 <a href="https://www.youtube.com/playlist?list=PL2H7HbmQHDJW7JmLzMRkZMeNV_wOxdcXi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="pratik bhavsar" height="20" width="20" /></a>
 </p>
 
