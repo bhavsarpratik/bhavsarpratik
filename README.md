@@ -28,3 +28,5 @@ I have worked on a variety of domains and projects.
 🙏🏼  You can reach me via [Twitter](https://twitter.com/nlpguy_)
 
 🏇  You can find my community talks at [YouTube](https://www.youtube.com/playlist?list=PL2H7HbmQHDJW7JmLzMRkZMeNV_wOxdcXi)
+
+![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavsarpratik&show_icons=true&theme=radical)
