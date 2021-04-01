@@ -9,6 +9,8 @@
 <a href="https://www.youtube.com/playlist?list=PL2H7HbmQHDJW7JmLzMRkZMeNV_wOxdcXi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="pratik bhavsar" height="20" width="20" /></a>
 </p>
 
+<p align="left"> <a href="https://twitter.com/nlpguy_" target="blank"><img src="https://img.shields.io/twitter/follow/nlpguy?logo=twitter&style=for-the-badge" alt="nlpguy" /></a> </p>
+
 I am a self-taught data scientist from India working remotely from Mumbai. I don't know if my skills are wide or deep, but I can get things done 🧗
 
 I have worked on a variety of domains and projects.
