@@ -1,32 +1,61 @@
-<h1 align="center">Hey I'm Pratik 👋</h1>
-<h3 align="center">A remote NLP engineer from India 👾</h3>
-<h3 align="center">NLP | Deep Learning | Python | AWS</h3>  
+<div align="center">
+  
+# 👋 Hey, I'm Pratik
+### GenAI & NLP Engineer | Building AI Communities
 
-<p align="center">
-<a href="https://twitter.com/nlpguy_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nlpguy_" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/bhavsarpratik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bhavsarpratik" height="20" width="20" /></a>
-<a href="https://medium.com/@pratikbhavsar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="pratikbhavsar" height="20" width="20" /></a>
-<a href="https://www.youtube.com/playlist?list=PL2H7HbmQHDJW7JmLzMRkZMeNV_wOxdcXi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="pratik bhavsar" height="20" width="20" /></a>
-</p>
+[![Website](https://img.shields.io/badge/Website-pratik.ai-blue?style=for-the-badge)](https://pratik.ai)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nlpguy_)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavsarpratik)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pratikbhavsar)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/playlist?list=PL2H7HbmQHDJW7JmLzMRkZMeNV_wOxdcXi)
 
-<p align="left"> <a href="https://twitter.com/nlpguy_" target="blank"><img src="https://img.shields.io/twitter/follow/nlpguy?logo=twitter&style=for-the-badge" alt="nlpguy" /></a> </p>
+</div>
 
-I am a self-taught data scientist from India working remotely from Mumbai. I don't know if my skills are wide or deep, but I can get things done 🧗
+## 🚀 About Me
 
-I have worked on a variety of domains and projects.
-- Semantic search using Deep learning 
-- Elasticsearch - search and recommendation engine 
-- Text classification(English and Hinglish)
-- Chatbots
-- Algorithmic trading with ML
-- Applying AutoML
+I'm a GenAI and NLP engineer from India, passionate about building AI communities and advancing the field of natural language processing. Currently, I'm:
 
-🧪  Some of my best projects are available at [hackathons](https://github.com/bhavsarpratik/hackathons)
+- 🌟 Founder of [Maxpool](https://maxpool.dev) - A thriving GenAI community
+- 💼 Working at [Galileo](https://www.galileo.ai) - A GenAI evaluation company
+- 📚 Author of two books:
+  - [Mastering RAG](https://www.galileo.ai/mastering-rag)
+  - [Mastering Agents](https://www.galileo.ai/ebook-mastering-agents)
 
-🖌  I regulary write data science blogs on [Substack](http://pakodas.substack.com) & [Modern NLP](https://medium.com/modern-nlp)
+## 🛠️ Notable Projects
 
-🙏🏼  You can reach me via [Twitter](https://twitter.com/nlpguy_)
+- 🤖 [BRAG](https://themaximalists.substack.com/p/brag) - An open-source model pushing the boundaries of AI capabilities
+- 🏆 [Hackathon Projects](https://github.com/bhavsarpratik/hackathons) - Collection of my best hackathon submissions
 
-🏇  You can find my community talks at [YouTube](https://www.youtube.com/playlist?list=PL2H7HbmQHDJW7JmLzMRkZMeNV_wOxdcXi)
+## ✍️ Writing & Blogs
 
-![Pratik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavsarpratik&show_icons=true&theme=radical)
+- 📝 Recent GenAI Articles on [Galileo Blog](https://galileo.ai/blogs)
+- 📰 [Pakodas Newsletter](http://pakodas.substack.com) - Regular data science insights
+- 📚 [Modern NLP](https://medium.com/modern-nlp) - Deep dives into NLP concepts
+- 🌐 Personal blog at [pratik.ai](https://pratik.ai)
+
+## 🎯 Skills & Expertise
+
+```text
+🧠 Machine Learning    ▰▰▰▰▰▰▰▰▰▱ 90%
+🤖 LLMs                ▰▰▰▰▰▰▰▰▰▱ 90%
+🐍 Python              ▰▰▰▰▰▰▰▰▱▱ 80%
+☁️ AWS                 ▰▰▰▰▰▰▰▰▱▱ 80%
+```
+
+## 🎤 Community Engagement
+
+- 🗣️ Speaker at AI/ML conferences and meetups like PyData and The Fifth Elephant
+- 🎥 [Tech Talks & Tutorials](https://www.youtube.com/playlist?list=PL2H7HbmQHDJW7JmLzMRkZMeNV_wOxdcXi)
+- 🌐 Active contributor to open-source NLP projects like Jina
+
+## 📫 Get in Touch
+
+The best way to reach me is through [Twitter](https://twitter.com/nlpguy_) / [LinkedIn](https://linkedin.com/in/bhavsarpratik).
+
+---
+
+<div align="center">
+
+**"Building the future of AI, one community at a time"**
+
+</div>
