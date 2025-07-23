@@ -14,7 +14,12 @@
 ## 🚀 About Me
 
 
-![Bay Bridge @ SF](https://1564160870-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M-rwfgabcetHyJ6ZzSd%2Fuploads%2FAfWzM4jiMCL69DrnBkTw%2FIMG_8665%20Large.jpeg?alt=media&token=2c8147c5-d61e-4842-97c8-cdb6b419ba31)
+<img
+  src="https://1564160870-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M-rwfgabcetHyJ6ZzSd%2Fuploads%2FAfWzM4jiMCL69DrnBkTw%2FIMG_8665%20Large.jpeg?alt=media&token=2c8147c5-d61e-4842-97c8-cdb6b419ba31"
+  alt="Bay Bridge @ SF"
+  width="600"
+/>
+
 
 Hello! I’m an AI engineer at Galileo, with a strong track record of building AI systems. My passion is turning cutting-edge research into real-world impact and I thrive on tackling ambitious AI challenges from prototype to production.
 
@@ -54,18 +59,9 @@ Looking forward to connecting with you on [Twitter](https://twitter.com/ptkbhv) 
 
 Here are some of my old hackathon stories: [What happens at a hackathon?](https://www.quora.com/What-happens-at-a-hackathon/answer/Pratik-Bhavsar)
 
-
-
-```text
-🧠 Machine Learning    ▰▰▰▰▰▰▰▰▰▱ 90%
-🤖 LLMs                ▰▰▰▰▰▰▰▰▰▱ 90%
-🐍 Python              ▰▰▰▰▰▰▰▰▱▱ 80%
-☁️ AWS                 ▰▰▰▰▰▰▰▰▱▱ 80%
-```
-
 ## 📫 Get in Touch
 
-The best way to reach me is through [Twitter](https://twitter.com/nlpguy_) / [LinkedIn](https://linkedin.com/in/bhavsarpratik).
+The best way to reach me is through [Twitter](https://twitter.com/ptkbhv) / [LinkedIn](https://linkedin.com/in/bhavsarpratik).
 
 ---
 
