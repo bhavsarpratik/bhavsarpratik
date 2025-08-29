@@ -21,12 +21,13 @@
 />
 
 
-Hello! I’m an AI engineer at Galileo, with a strong track record of building AI systems. My passion is turning cutting-edge research into real-world impact and I thrive on tackling ambitious AI challenges from prototype to production.
+Hello! I’m an AI engineer at [Galileo](https://galileo.ai), with a strong track record of building AI systems. My passion is turning cutting-edge research into real-world impact and I thrive on tackling ambitious AI challenges from prototype to production.
 
 - **Startup experience**: Designed and implemented mission-critical search and AI at Taskhuman and Enterpret. I am currently leading open-source [AI agent](https://huggingface.co/spaces/galileo-ai/agent-leaderboard) evaluation. My [RAG](https://galileo.ai/hallucination-index) evaluation research was featured in Andrew Ng's [newsletter](https://www.deeplearning.ai/the-batch/issue-265/).
 - **Enterprise leadership**: Launched end-to-end AI initiatives from the ground up at [Morningstar](https://www.linkedin.com/posts/bhavsarpratik_machinelearning-nlp-artificialintelligence-activity-6462904245736837120-uKzG/).
 - **Public presence**:
   - Interview with [Latent Space](https://www.youtube.com/watch?v=Mp0gxUunnWI) podcast
+  - Gave [talks](http://talks.pratik.ai) at international communities
   - 23k followers on LinkedIn
   - 3k followers on Twitter
 - **Open source**:
@@ -44,7 +45,7 @@ Hello! I’m an AI engineer at Galileo, with a strong track record of building A
   - [Mastering LLM-as-a-Judge](https://galileo.ai/mastering-llm-as-a-judge)
 
 I share tech and business insights on my Substack newsletter: [pakodas.substack.com](https://pakodas.substack.com)  
-Much of my content is categorized at [blogs.pratik.ai](http://blogs.pratik.ai/).
+Much of my old content is categorized at [blogs.pratik.ai](http://blogs.pratik.ai/).
 
 I have worked on a variety of domains and projects:
 
@@ -55,11 +56,9 @@ I have worked on a variety of domains and projects:
 - Elasticsearch (search and recommendation engine)
 - Algorithmic trading with ML
 
-Looking forward to connecting with you on [Twitter](https://twitter.com/ptkbhv) and [LinkedIn](https://www.linkedin.com/in/bhavsarpratik/).
-
 Here are some of my old hackathon stories: [What happens at a hackathon?](https://www.quora.com/What-happens-at-a-hackathon/answer/Pratik-Bhavsar)
 
-## 📫 Get in Touch
+## Get in Touch
 
 The best way to reach me is through [Twitter](https://twitter.com/ptkbhv) / [LinkedIn](https://linkedin.com/in/bhavsarpratik).
 
